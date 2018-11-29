@@ -58,10 +58,30 @@
           "nome": "Mr. Bacon",
           "valor": 45,
           "quantidade": "5"
+        },
+        {
+          "nome": "Mr. Bacon",
+          "valor": 45,
+          "quantidade": "2"
+        },
+        {
+          "nome": "Mr. Bacon",
+          "valor": 45,
+          "quantidade": "0"
+        },
+        {
+          "nome": "Mr. Burguer",
+          "valor": 34,
+          "quantidade": "0"
+        },
+        {
+          "nome": "Mr. Bacon",
+          "valor": 45,
+          "quantidade": "0"
         }
       ],
-      "total_valor": 620,
-      "total_valor_pessoa": "310.00",
+      "total_valor": 1330,
+      "total_valor_pessoa": "665.00",
       "id": 3
     },
     {
@@ -129,21 +149,16 @@
       "id": 7
     },
     {
-      "num_pessoas": 2,
+      "num_pessoas": 1,
       "pedidos": [
         {
           "nome": "Mr. Bacon",
           "valor": 45,
-          "quantidade": "5"
-        },
-        {
-          "nome": "Mr. Bacon",
-          "valor": 45,
-          "quantidade": "5"
+          "quantidade": "2"
         }
       ],
-      "total_valor": 450,
-      "total_valor_pessoa": "225.00",
+      "total_valor": 45,
+      "total_valor_pessoa": "45.00",
       "id": 8
     }
   ]
