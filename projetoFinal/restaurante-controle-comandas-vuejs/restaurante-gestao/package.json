@@ -2,7 +2,7 @@
   "name": "restaurante-gestao",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "ddlandim <https://github.com/ddlandim/cs-unifespbr-paradigmas/tree/master/projetoFinal>",
+  "author": "ddlandim <ddlandim@unifesp.br>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
