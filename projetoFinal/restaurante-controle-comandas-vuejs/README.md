@@ -18,4 +18,4 @@ https://github.com/ddlandim/cs-unifespbr-paradigmas/tree/master/projetoFinal
 - sudo npm install
 - npm run dev
 
-##Mais informações em documentacao.odt
+##Mais informações em documentacao.pdf
